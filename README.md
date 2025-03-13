@@ -86,8 +86,8 @@ docker run hello-world
 ## 🔹 4. Клонирование проекта
 Если ваш проект находится на GitHub, клонируйте его:
 ```bash
-git clone https://github.com/your-repo/your-project.git
-cd your-project
+git clone https://github.com/Hikkiray69/TourAgency
+cd TourAgency
 ```
 Если у вас уже есть готовый проект, просто откройте его в терминале.
 
